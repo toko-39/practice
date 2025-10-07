@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 # Don't index SpecStory auto-save files, but allow explicit context inclusion via @ references
 .specstory/**
+=======
+
+# Don't index SpecStory auto-save files, but allow explicit context inclusion via @ references
+.specstory/**
+>>>>>>> 9da9afb859a62bf6bed89672a8f2e73b258541fb
