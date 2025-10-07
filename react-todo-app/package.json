@@ -1,0 +1,20 @@
+{
+  "name": "react-todo-app",
+  "version": "1.0.0",
+  "description": "Simple React Todo App",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve -s .",
+    "dev": "npx serve -s ."
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/standalone": "^7.20.0"
+  },
+  "keywords": ["react", "todo", "app"],
+  "author": "",
+  "license": "MIT"
+}
