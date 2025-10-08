@@ -6,3 +6,7 @@ dist/
 build/
 .vscode/
 .idea/
+
+# TypeScript compiled files
+*.js
+!*.config.js
